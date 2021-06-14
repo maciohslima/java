@@ -14,7 +14,7 @@
  * Entendendo o que é Paradigma Funcional
  * Funções e imutabilidade em Paradigma Funcional
  * Lambda em Java
- * Revursividade em Java
+ * Recursividade em Java
 
 ### Interfaces Funcionais
  * Introdução da aula
