@@ -1,3 +1,5 @@
+package lambdaJava;
+
 public class FatorialTailCall {
     public static void main(String[] args) {
         System.out.println(fatorialA(5));

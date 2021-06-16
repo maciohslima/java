@@ -1,3 +1,5 @@
+package lambdaJava;
+
 class FuncaoComLambda {
     public static void main(String[] args) {
         Funcao colocarPrefixoNaString = valor -> "Sr. " + valor;
