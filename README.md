@@ -16,7 +16,16 @@
  * Lambda em Java
  * Recursividade em Java
 
-### Interfaces Funcionais
+### Interfaces Funcionais - Ok
  * Introdução da aula
- * 
+ * Facilitando o código da API
+ * Funções de Alta Ordem
+ * Aprenda sobre parâmetro da Função
+ * Iterações entre as funções
+ * Conclusão das funções em Java
+
+### Processamento Assíncrono e Paralelo
+ * O que é síncrono e assíncrono
+ * Desenvolvendo uma API de Threads do Java
+ * Execução da API do Java 8
  
